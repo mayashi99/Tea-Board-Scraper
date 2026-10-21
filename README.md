@@ -1,12 +1,12 @@
-##Tea Board Scraper 🇱🇰🍃
+# **Tea Board Scraper 🇱🇰🍃
 
-Overview
+# ***Overview
 
 Tea Board Scraper is a Python-based web scraping project developed to collect tea-related statistical data from the official Sri Lanka Tea Board website and organize the collected information into Excel files for further analysis and research.
 
 The project supports the collection and organization of Sri Lankan tea industry data, helping researchers and developers work with tea statistics more efficiently.
 
-Official Data Source
+# ***Official Data Source
 
 Sri Lanka Tea Board: https://srilankateaboard.lk/
 
@@ -25,7 +25,7 @@ Tea-Board-Scraper/
 ├── tea_statistics.xlsx
 └── tea_statistics_all.xlsx
 
-File Description
+# ***File Description
 
 main.py — Main Python script for running the scraper.
 
@@ -41,7 +41,7 @@ tea_statistics.xlsx — Excel file containing tea statistics.
 
 tea_statistics_all.xlsx — Excel file containing the collected tea statistics.
 
-Technologies Used
+# ***Technologies Used
 
 Python — Core programming language.
 
